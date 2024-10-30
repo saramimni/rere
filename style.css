@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(120deg, #84fab0, #8fd3f4);
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #0056b3;
+}
+
+#meal-info .meal-item {
+  margin: 10px 0;
+}
+
+#meal-info .meal-item span {
+  font-weight: 700;
+  color: #ff5733;
+}
